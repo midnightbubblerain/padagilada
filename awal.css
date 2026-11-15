@@ -1,0 +1,43 @@
+.kotak {
+    background-color: rgb(245 245 220 / 80%);
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border: 20px solid rgb(202, 40, 67, 0.8);
+    border-radius: 25px;
+    
+}
+
+.kot {
+    background-color:rgba(241, 223, 226, 0.9);
+    width:300px;
+    padding: 30px;
+    position: relative;
+    border: 30px solid rgb(199, 22, 90, 0.8);
+    border-radius: 30px;
+    
+   
+}
+
+.kotakk {
+    background-color: rgba(102, 6, 22, 0.8);
+    width: 450px;
+    padding-top: 200px;
+padding-bottom: 180px;
+padding-left: 60px;
+padding-right: 60px;
+border-radius: 30px;
+}
+
+.kotak1 {
+    background-color: rgba(241, 216, 220, 0.5);
+    width: 1000px;
+    padding: 100px;
+    padding-bottom: 650px;
+    margin-top: 200px;
+    margin-bottom:100px;
+    margin-left: 77px;
+    margin-right: 600px;
+    
+border-radius: 30px;
+}
